@@ -25,7 +25,7 @@ Each project pairs an architecture write-up (diagrams, decisions, risks, costs) 
 | 5 | RAG assistant over public documents | GenAI architecture, retrieval, evaluation | 🗓️ Planned |
 | 6 | [FHIR interoperability lab](https://github.com/aadirani/fhir-interoperability-lab) | HL7 FHIR R4, LOINC, UCUM, synthetic data | ✅ Done |
 | 7 | [Institutional digital asset custody](https://github.com/aadirani/digital-asset-custody-architecture) | Hot/warm/cold design, MPC vs multisig, threat model, policy engine | ✅ Done |
-| 8 | AI governance assessment | EU AI Act, NIST AI RMF, risk register | 🗓️ Planned |
+| 8 | [AI governance assessment](https://github.com/aadirani/ai-governance-assessment) | EU AI Act (2026 dates), NIST AI RMF, risk register | ✅ Done |
 | 9 | Human-in-the-loop agent workflow | Multi-agent design, approval gates, audit log | 🗓️ Planned |
 | 10 | Cloud data platform design | Lakehouse, governance, cost model | 🗓️ Planned |
 
