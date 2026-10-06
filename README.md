@@ -23,7 +23,7 @@ Each project pairs an architecture write-up (diagrams, decisions, risks, costs) 
 | 3 | [Crypto market data pipeline](https://github.com/aadirani/crypto-market-data-pipeline) | Public API ingestion, data quality, SQL window functions | ✅ Done |
 | 4 | [Perpetual futures risk calculator](https://github.com/aadirani/perp-futures-risk-calculator) | Position sizing, liquidation distance, fees, funding | ✅ Done |
 | 5 | RAG assistant over public documents | GenAI architecture, retrieval, evaluation | 🗓️ Planned |
-| 6 | FHIR interoperability lab | Healthcare data standards, synthetic data | 🗓️ Planned |
+| 6 | [FHIR interoperability lab](https://github.com/aadirani/fhir-interoperability-lab) | HL7 FHIR R4, LOINC, UCUM, synthetic data | ✅ Done |
 | 7 | Institutional digital asset custody | Hot/cold design, MPC vs multisig, threat model | 🗓️ Planned |
 | 8 | AI governance assessment | EU AI Act, NIST AI RMF, risk register | 🗓️ Planned |
 | 9 | Human-in-the-loop agent workflow | Multi-agent design, approval gates, audit log | 🗓️ Planned |
