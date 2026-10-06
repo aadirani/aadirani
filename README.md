@@ -18,7 +18,7 @@ Each project pairs an architecture write-up (diagrams, decisions, risks, costs) 
 
 | # | Project | Focus | Status |
 |---|---|---|---|
-| 1 | Resilient hospital IT reference architecture | Power, backup, connectivity, segmentation on a tight budget | 🗓️ Planned |
+| 1 | [Resilient hospital IT reference architecture](https://github.com/aadirani/hospital-it-resilience) | Power, backup, connectivity, segmentation on a tight budget | ✅ Done |
 | 2 | AWS 3-tier reference architecture | Cloud design, decision records, cost model | 🗓️ Planned |
 | 3 | Crypto market data pipeline | APIs, SQL analytics, dashboards | 🗓️ Planned |
 | 4 | Perpetual futures risk calculator | Position sizing, liquidation distance, fees | 🗓️ Planned |
