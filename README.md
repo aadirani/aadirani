@@ -12,14 +12,14 @@ I sit between business and engineering: I take a real problem, design the techni
 
 ---
 
- 📐 Portfolio
+## 📐 Portfolio
 
 Each project pairs an architecture write-up (diagrams, decisions, risks, costs) with a small, working piece of code where it adds value.
 
 | # | Project | Focus | Status |
-
+|---|---|---|---|
 | 1 | [Resilient hospital IT reference architecture](https://github.com/aadirani/hospital-it-resilience) | Power, backup, connectivity, segmentation on a tight budget | ✅ Done |
-| 2 | AWS 3-tier reference architecture | Cloud design, decision records, cost model | 🗓️ Planned |
+| 2 | [AWS 3-tier reference architecture](https://github.com/aadirani/aws-three-tier-reference) | Terraform, decision records, cost model | ✅ Done |
 | 3 | Crypto market data pipeline | APIs, SQL analytics, dashboards | 🗓️ Planned |
 | 4 | Perpetual futures risk calculator | Position sizing, liquidation distance, fees | 🗓️ Planned |
 | 5 | RAG assistant over public documents | GenAI architecture, retrieval, evaluation | 🗓️ Planned |
@@ -31,7 +31,7 @@ Each project pairs an architecture write-up (diagrams, decisions, risks, costs) 
 
 ---
 
- 🧭 How I approach a system
+## 🧭 How I approach a system
 
 - **Start from the problem and the constraints**: budget, people, compliance, and what happens when it fails.
 - **Write decisions down.** Every significant choice gets an Architecture Decision Record with the options considered.
@@ -42,5 +42,6 @@ Each project pairs an architecture write-up (diagrams, decisions, risks, costs) 
 
 ## 🛠️ Skills
 
-networking · VoIP · Windows & Linux servers · backups & recovery · IT security operations · hospital IT systems · vendor management · crypto trading & digital assets .
-Jira .  Google Spaces . AWS · Python · SQL · Git · RAG & AI agents · data platforms · FHIR
+**Hands-on experience:** networking · VoIP · Windows & Linux servers · backups & recovery · IT security operations · hospital IT systems · vendor management · crypto trading & digital assets
+
+**Currently building skills in:** AWS · Python · SQL · Git · RAG & AI agents · data platforms · FHIR
