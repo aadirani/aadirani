@@ -21,7 +21,7 @@ Each project pairs an architecture write-up (diagrams, decisions, risks, costs) 
 | 1 | [Resilient hospital IT reference architecture](https://github.com/aadirani/hospital-it-resilience) | Power, backup, connectivity, segmentation on a tight budget | ✅ Done |
 | 2 | [AWS 3-tier reference architecture](https://github.com/aadirani/aws-three-tier-reference) | Terraform, decision records, cost model | ✅ Done |
 | 3 | [Crypto market data pipeline](https://github.com/aadirani/crypto-market-data-pipeline) | Public API ingestion, data quality, SQL window functions | ✅ Done |
-| 4 | Perpetual futures risk calculator | Position sizing, liquidation distance, fees | 🗓️ Planned |
+| 4 | [Perpetual futures risk calculator](https://github.com/aadirani/perp-futures-risk-calculator) | Position sizing, liquidation distance, fees, funding | ✅ Done |
 | 5 | RAG assistant over public documents | GenAI architecture, retrieval, evaluation | 🗓️ Planned |
 | 6 | FHIR interoperability lab | Healthcare data standards, synthetic data | 🗓️ Planned |
 | 7 | Institutional digital asset custody | Hot/cold design, MPC vs multisig, threat model | 🗓️ Planned |
